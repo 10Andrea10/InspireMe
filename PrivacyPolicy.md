@@ -1,6 +1,6 @@
 # Privacy Policy for InspireMe
 
-**Effective Date:** [Insert Date]  
+**Effective Date:** 2024/11/29  
 
 At *InspireMe*, we are committed to protecting your privacy and ensuring the security of your personal data. This Privacy Policy outlines how we collect, use, store, and disclose information obtained through the *InspireMe* mobile application ("App"). By using our App, you consent to the practices described in this Privacy Policy.  
 
