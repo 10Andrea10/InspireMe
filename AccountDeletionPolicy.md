@@ -43,7 +43,7 @@ If you have any questions regarding this policy or encounter issues during the d
 ---
 
 ## Hosting Information  
-This document is publicly accessible at [Insert GitHub Repository URL].  
+This document is publicly accessible at [https://10andrea10.github.io/InspireMe/AccountDeletionPolicy.html](https://10andrea10.github.io/InspireMe/AccountDeletionPolicy.html).  
 
 By using *InspireMe*, you agree to this Account and Data Deletion Policy.  
 
